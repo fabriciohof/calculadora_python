@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[14]:
-
-
 def soma():
     return (x+y)
     
@@ -34,16 +28,3 @@ elif menu == 3:
     print(f'Resultado: {x} x {y} =',multiplicacao())
 elif menu == 4:
     print(f'Resultado: {x} ÷ {y} =',divisao())
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
